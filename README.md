@@ -1,24 +1,13 @@
-# README
+Bonjour :)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Le code comporte des bugs donc cela ne sert à rien de lancer le serveur . Par contre tu peux regarder le code pour vérifier que : 
 
-Things you may want to cover:
+- Moviedb est bien configuré
+- Il un service SearchMovie relié au controller Movie
+- Le controller Service comprend 3 méthodes (malheureusement les bugs se trouvent ici...)
+- Il y a aussi une view search.html.erb 
 
-* Ruby version
 
-* System dependencies
+Merci à @Victorian Roques ! 
 
-* Configuration
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
